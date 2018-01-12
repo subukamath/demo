@@ -2,4 +2,8 @@ This is an example
 
 This is a new line
 
+<<<<<<< HEAD
 Some random update to cause some issue. This is another change in branch Release1.0
+=======
+This will cause trouble. This is another change in branch Release1.0
+>>>>>>> bad-branch
