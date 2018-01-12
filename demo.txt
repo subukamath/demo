@@ -1,3 +1,5 @@
 This is an example
 
 This is a new line
+
+This is another change in branch Release1.0
